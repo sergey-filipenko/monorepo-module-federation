@@ -1,0 +1,20 @@
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  span {
+    margin: 5px;
+    font-size: 20px;
+    color: blue;
+    background-color: yellow;
+  }
+}
+.value {
+  font-size: 20px;
+  line-height: 40px;
+  color: blue;
+  background-color: yellow;
+}
